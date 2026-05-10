@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600&family=DM+Sans:wght@300;400;500;600&display=swap');
+*{box-sizing:border-box;margin:0;padding:0;-webkit-tap-highlight-color:transparent;}
+:root{
+  --g:#4a7c59;--g-light:#d4e8da;--g-mid:#83b593;--g-dark:#2d5238;
+  --g-pale:#eef6f0;--bg:#f5faf6;--bg-card:#f9fdf9;
+  --tx:#1a2e1f;--tm:#5a7a62;--ts:#8faa96;--bd:#c2ddc9;
+}
+.app{display:flex;min-height:600px;font-family:'DM Sans',sans-serif;background:var(--bg);color:var(--tx);}
